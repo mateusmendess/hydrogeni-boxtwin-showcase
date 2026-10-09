@@ -102,9 +102,13 @@ Atuo no desenvolvimento do BoxTwin com foco em **interface, experiência de uso,
 
 Projeto desenvolvido em equipe por integrantes do Help Desk da CEUMA, graduandos e egressos da instituição.
 
-- **Domingos Junior** — liderança técnica e arquitetura · [@JuniorDdev](https://github.com/JuniorDdev)
-- **Mateus Mendes** — desenvolvimento web, interface e DevOps · [@mateusmendess](https://github.com/mateusmendess)
-- _demais integrantes_
+| Integrante | Função no projeto |
+|---|---|
+| **Domingos** · [@JuniorDdev](https://github.com/JuniorDdev) | Liderança da equipe e arquitetura da solução: alinhamento estratégico com os mentores e desenho da arquitetura física do sistema |
+| **Mateus Mendes** · [@mateusmendess](https://github.com/mateusmendess) | Desenvolvimento do sistema e da interface: evolução do software, experiência do usuário e demonstração da plataforma |
+| **Fernando** | Pitch e apresentação: estruturação e apresentação do pitch final à banca |
+| **Geovane** | Pesquisa de mercado e validação: análise de dados, estudo do problema e entendimento do cliente |
+| **Hyerro** | Organização e operações: logística de materiais, processos internos e suporte à equipe |
 
 ---
 
