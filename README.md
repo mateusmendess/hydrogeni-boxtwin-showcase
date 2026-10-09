@@ -7,7 +7,7 @@ Realização: EMAP · ICT Guará
 
 🔗 **Sistema em produção:** [hydrogeni-boxtwin-production.up.railway.app](https://hydrogeni-boxtwin-production.up.railway.app)
 
-> 🔒 O código-fonte é privado e de propriedade da equipe HydrogenI. Este repositório apresenta o projeto e a minha participação nele.
+> 🔒 O código-fonte é privado e de propriedade da equipe HydrogenI. Este repositório apresenta o projeto e a equipe responsável por ele.
 
 ---
 
@@ -66,7 +66,7 @@ Box → sensor 8×8 → Raspberry Pi (edge) → cálculo volumétrico → SQLite
 | Integrações | Resend (e-mail), Twilio (WhatsApp), Groq (IA) |
 | DevOps | GitHub Actions (CI), Railway (CD), systemd |
 
-## 👨‍💻 Minha contribuição
+## 👨‍💻 Contribuição de Mateus Mendes
 
 > 🚧 Projeto em desenvolvimento ativo: atualmente na fase de aceleração, rumo ao piloto no Porto do Itaqui.
 
@@ -100,16 +100,22 @@ Atuo no desenvolvimento do BoxTwin com foco em **interface, experiência de uso,
 
 ## 👥 Equipe HydrogenI
 
-Projeto desenvolvido em equipe por integrantes do Help Desk da CEUMA, graduandos e egressos da instituição.
+### Domingos — [@JuniorDdev](https://github.com/JuniorDdev)
+**Liderança técnica e arquitetura da solução.** Alinhou a estratégia com os mentores, desenhou a arquitetura física e estabeleceu as bases técnicas do BoxTwin, atuando em front-end, back-end e estrutura do sistema.
+📫 [junior.db2008@gmail.com](mailto:junior.db2008@gmail.com) · [LinkedIn](https://www.linkedin.com/in/domingos-junior-7a5357252/)
 
-| Integrante | Função no projeto |
-|---|---|
-| **Domingos** · [@JuniorDdev](https://github.com/JuniorDdev) | Liderança da equipe e arquitetura da solução: alinhamento estratégico com os mentores e desenho da arquitetura física do sistema |
-| **Mateus Mendes** · [@mateusmendess](https://github.com/mateusmendess) | Desenvolvimento do sistema e da interface: evolução do software, experiência do usuário e demonstração da plataforma |
-| **Fernando** | Pitch e apresentação: estruturação e apresentação do pitch final à banca |
-| **Geovane** | Pesquisa de mercado e validação: análise de dados, estudo do problema e entendimento do cliente |
-| **Hyerro** | Organização e operações: logística de materiais, processos internos e suporte à equipe |
+### Mateus Mendes — [@mateusmendess](https://github.com/mateusmendess)
+**Desenvolvimento do sistema e da interface.** Desenvolve e evolui o software e a interface, cuidando da experiência do usuário, do pipeline de CI/CD e da demonstração da plataforma.
+📫 [mateusxmendes@gmail.com](mailto:mateusxmendes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateus-mendes-730789237/)
 
----
+### Fernando — [@Fernando-Harrison](https://github.com/Fernando-Harrison)
+**Pitch, ideação e montagem do protótipo.** Estruturou e apresentou o pitch final à banca, contribuiu com ideias para a solução e participou da montagem do protótipo físico.
+📫 [fernandoharrison33@gmail.com](mailto:fernandoharrison33@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fernando-harrison-431a6a324/)
 
-📫 **Contato:** [mateusxmendes@gmail.com](mailto:mateusxmendes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateus-mendes-730789237/)
+### Geovane — [@Geovannehh](https://github.com/Geovannehh)
+**Pesquisa de mercado e validação.** Conduziu a pesquisa de mercado e a análise de dados, estudando o problema e o perfil do cliente para validar a solução.
+📫 [eng.geovanepaixao@gmail.com](mailto:eng.geovanepaixao@gmail.com) · [LinkedIn](https://www.linkedin.com/in/geovane-paix%C3%A3o/)
+
+### Hyerro — [@LuisHyerro](https://github.com/LuisHyerro)
+**Organização e operações.** Cuidou da organização interna, da logística de materiais e do suporte à equipe, garantindo que o trabalho seguisse sem travar.
+📫 [luishyerro0@gmail.com](mailto:luishyerro0@gmail.com) · [LinkedIn](https://www.linkedin.com/in/luis-hy%C3%AArro-b6407a250/)
