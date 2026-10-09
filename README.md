@@ -112,4 +112,4 @@ Projeto desenvolvido em equipe por integrantes do Help Desk da CEUMA, graduandos
 
 ---
 
-📫 **Contato:** [mateusxmendes@gmail.com](mailto:mateusxmendes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
+📫 **Contato:** [mateusxmendes@gmail.com](mailto:mateusxmendes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateus-mendes-730789237/)
