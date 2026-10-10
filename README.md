@@ -100,9 +100,9 @@ Atuo no desenvolvimento do BoxTwin com foco em **interface, experiência de uso,
 
 ## 👥 Equipe HydrogenI
 
-### Domingos — [@JuniorDdev](https://github.com/JuniorDdev)
-**Liderança técnica e arquitetura da solução.** Alinhou a estratégia com os mentores, desenhou a arquitetura física e estabeleceu as bases técnicas do BoxTwin, atuando em front-end, back-end e estrutura do sistema.
-📫 [junior.db2008@gmail.com](mailto:junior.db2008@gmail.com) · [LinkedIn](https://www.linkedin.com/in/domingos-junior-7a5357252/)
+### Domingos Júnior — [@JuniorDdev](https://github.com/JuniorDdev)
+Liderança técnica, arquitetura e gestão da solução. Alinhou a estratégia e definiu a arquitetura física e digital do BoxTwin, concebida de forma responsiva para web, PWA e APK. Estabeleceu as bases técnicas do sistema e implementou o gêmeo digital 3D, tanto em ambiente simulado quanto integrado ao contexto real. Também desenvolveu a solução de conectividade baseada em Raspberry Pi, configurado como ponto de acesso Wi‑Fi com adaptador de rede USB e rede local própria, garantindo operação de contingência e armazenamento das leituras em modo offline. Implementou integrações via API com Twilio e um assistente inteligente baseado em RAG, utilizando Groq para processamento. Atualmente, atua com foco na gestão e divisão de tarefas da equipe, além de garantir a comunicação confiável entre o sistema e o hardware.
+📫 [junior_db2008@hotmail.com](mailto:junior_db2008@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/domingos-junior-7a5357252/)
 
 ### Mateus Mendes — [@mateusmendess](https://github.com/mateusmendess)
 **Desenvolvimento do sistema e da interface.** Desenvolve e evolui o software e a interface, cuidando da experiência do usuário, do pipeline de CI/CD e da demonstração da plataforma.
